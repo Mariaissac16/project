@@ -1,0 +1,278 @@
+﻿[CVA File Information]
+CVATimeStamp=20190611T050659
+CVASyntaxVersion=2.1A6
+
+[Software Title]
+US=Intel High-Definition (HD) Graphics Driver
+
+[US.Software Description]
+This package provides the driver that enables the Intel High-Definition (HD) Graphics in supported notebook models that are running a supported operating system. If high-definition multimedia interface (HDMI) video output is supported, this package also installs the HDMI Audio Driver.
+
+[General]
+PN=000000-000
+Version=25.20.100.6577
+Revision=A
+Pass=20
+Type=Driver
+Category=Driver - Graphics
+TargetPartition=MFG DIAGS
+SystemMustBeRebooted=1
+VendorName=Intel
+VendorVersion=25.20.100.6577
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[ProfessionalInnovations]
+HPPI=NO
+LearnMore=
+
+[DetailFileInformation]
+igdkmd64.sys=<WINSYSDIR>\DriverStore\FileRepository\iigd_dch.inf_amd64_eaeb95f33d745079\,0x0019,0x0014,0x0064,0x19B1,WT64_1903
+
+[Softpaq]
+SoftpaqNumber=SP96803
+SupersededSoftpaqNumber=None,None
+SoftPaqMD5=
+
+[Operating Systems]
+WT64_1903=OEM
+
+
+[Devices]
+PCI\VEN_8086&DEV_5917&SUBSYS_8544103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_8544103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5906&SUBSYS_8544103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5917&SUBSYS_8545103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_8545103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5906&SUBSYS_8545103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5917&SUBSYS_8578103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_8578103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5906&SUBSYS_8578103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5917&SUBSYS_8579103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_8579103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5906&SUBSYS_8579103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_3184&SUBSYS_8546103C="Intel(R) UHD Graphics 605"
+PCI\VEN_8086&DEV_3185&SUBSYS_8546103C="Intel(R) UHD Graphics 600"
+PCI\VEN_8086&DEV_3185&SUBSYS_857A103C="Intel(R) UHD Graphics 600"
+PCI\VEN_8086&DEV_3184&SUBSYS_857A103C="Intel(R) UHD Graphics 605"
+PCI\VEN_8086&DEV_5917&SUBSYS_849A103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5917&SUBSYS_849B103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5917&SUBSYS_84B2103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5917&SUBSYS_84B3103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5917&SUBSYS_84CA103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5917&SUBSYS_84CB103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_849A103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_849B103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_84B2103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_84B3103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_84CA103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_84CB103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5906&SUBSYS_849A103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5906&SUBSYS_849B103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5906&SUBSYS_84B2103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5906&SUBSYS_84B3103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5906&SUBSYS_84CA103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5906&SUBSYS_84CB103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5917&SUBSYS_855A103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5917&SUBSYS_855B103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_855A103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5916&SUBSYS_855B103C="Intel(R) HD Graphics 620"
+PCI\VEN_8086&DEV_5906&SUBSYS_855A103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_5906&SUBSYS_855B103C="Intel(R) HD Graphics 610"
+PCI\VEN_8086&DEV_3EA0&SUBSYS_852E103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_3EA0&SUBSYS_852F103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_3EA0&SUBSYS_852C103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_3EA0&SUBSYS_852D103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_3EA0&SUBSYS_8530103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_3EA0&SUBSYS_8531103C="Intel(R) UHD Graphics 620"
+PCI\VEN_8086&DEV_3EA1&SUBSYS_852E103C="Intel(R) UHD Graphics 610"
+PCI\VEN_8086&DEV_3EA1&SUBSYS_852F103C="Intel(R) UHD Graphics 610"
+PCI\VEN_8086&DEV_3EA1&SUBSYS_852C103C="Intel(R) UHD Graphics 610"
+PCI\VEN_8086&DEV_3EA1&SUBSYS_852D103C="Intel(R) UHD Graphics 610"
+PCI\VEN_8086&DEV_3EA1&SUBSYS_8530103C="Intel(R) UHD Graphics 610"
+PCI\VEN_8086&DEV_3EA1&SUBSYS_8531103C="Intel(R) UHD Graphics 610"
+PCI\VEN_8086&DEV_3184&SUBSYS_855E103C="Intel(R) UHD Graphics 605"
+PCI\VEN_8086&DEV_3185&SUBSYS_855E103C="Intel(R) UHD Graphics 600"
+PCI\VEN_8086&DEV_3184&SUBSYS_84CE103C="Intel(R) UHD Graphics 605"
+PCI\VEN_8086&DEV_3185&SUBSYS_84CE103C="Intel(R) UHD Graphics 600"
+PCI\VEN_8086&DEV_3184&SUBSYS_84CF103C="Intel(R) UHD Graphics 605"
+PCI\VEN_8086&DEV_3185&SUBSYS_84CF103C="Intel(R) UHD Graphics 600"
+PCI\VEN_8086&DEV_3184&SUBSYS_84B6103C="Intel(R) UHD Graphics 605"
+PCI\VEN_8086&DEV_3185&SUBSYS_84B6103C="Intel(R) UHD Graphics 600"
+PCI\VEN_8086&DEV_3184&SUBSYS_849E103C="Intel(R) UHD Graphics 605"
+PCI\VEN_8086&DEV_3185&SUBSYS_849E103C="Intel(R) UHD Graphics 600"
+
+[System Information]
+SysId00=0x852C
+SysName00=HP 246 G7 
+SysId01=0x852D
+SysName01=HP 246 G7 
+SysId02=0x855A
+SysName02=HP 246 G7 
+SysId03=0x855B
+SysName03=HP 246 G7 
+SysId04=0x855E
+SysName04=HP 246 G7 
+SysId05=0x852C
+SysName05=HP 240 G7 
+SysId06=0x852D
+SysName06=HP 240 G7 
+SysId07=0x855A
+SysName07=HP 240 G7 
+SysId08=0x855B
+SysName08=HP 240 G7 
+SysId09=0x855E
+SysName09=HP 240 G7 
+SysId10=0x849A
+SysName10=HP 14 Laptop
+SysId11=0x849B
+SysName11=HP 14 Laptop
+SysId12=0x84B6
+SysName12=HP 14 Laptop
+SysId13=0x849E
+SysName13=HP 14 Laptop
+SysId14=0x852C
+SysName14=HP 14 Laptop
+SysId15=0x852D
+SysName15=HP 14 Laptop
+SysId16=0x849A
+SysName16=HP 14 Laptop
+SysId17=0x849B
+SysName17=HP 14 Laptop
+SysId18=0x84B6
+SysName18=HP 14 Laptop
+SysId19=0x849E
+SysName19=HP 14 Laptop
+SysId20=0x852C
+SysName20=HP 14 Laptop
+SysId21=0x852D
+SysName21=HP 14 Laptop
+SysId22=0x84B2
+SysName22=HP 14 Laptop
+SysId23=0x84B3
+SysName23=HP 14 Laptop
+SysId24=0x84B6
+SysName24=HP 14 Laptop
+SysId25=0x852E
+SysName25=HP 14 Laptop
+SysId26=0x852F
+SysName26=HP 14 Laptop
+SysId27=0x8544
+SysName27=HP 14 Laptop
+SysId28=0x8546
+SysName28=HP 14 Laptop
+SysId29=0x84B2
+SysName29=HP 14 Laptop
+SysId30=0x84B3
+SysName30=HP 14 Laptop
+SysId31=0x84B6
+SysName31=HP 14 Laptop
+SysId32=0x852E
+SysName32=HP 14 Laptop
+SysId33=0x852F
+SysName33=HP 14 Laptop
+SysId34=0x8544
+SysName34=HP 14 Laptop
+SysId35=0x8546
+SysName35=HP 14 Laptop
+SysId36=0x84CA
+SysName36=HP 17g Laptop
+SysId37=0x84CB
+SysName37=HP 17g Laptop
+SysId38=0x84CE
+SysName38=HP 17g Laptop
+SysId39=0x84CF
+SysName39=HP 17g Laptop
+SysId40=0x8530
+SysName40=HP 17g Laptop
+SysId41=0x8531
+SysName41=HP 17g Laptop
+SysId42=0x84CA
+SysName42=HP 17g Laptop
+SysId43=0x84CB
+SysName43=HP 17g Laptop
+SysId44=0x84CE
+SysName44=HP 17g Laptop
+SysId45=0x84CF
+SysName45=HP 17g Laptop
+SysId46=0x8530
+SysName46=HP 17g Laptop
+SysId47=0x8531
+SysName47=HP 17g Laptop
+
+[Install Execution]
+Install="install.exe"
+SilentInstall="install.exe"
+
+[ReturnCode]
+0:SUCCESS:NOREBOOT=The action completed successfully.
+1641:SUCCESS:NOREBOOT=The installer has initiated a restart. This message is indicative of a success. 
+1619:SUCCESS:NOREBOOT= The action completed successfully. 
+14:SUCCESS:REBOOT= A restart is required to complete the install.
+1024:SUCCESS:REBOOT= A restart is required to complete the install.
+87:FAILURE:NOREBOOT=One of the parameters was invalid. 
+1604:FAILURE:NOREBOOT=Installation suspended, incomplete. 
+1612:FAILURE:NOREBOOT=The installation source for this product is not available. 
+1613:FAILURE:NOREBOOT=This installation package cannot be installed by the Windows Installer service. 
+1620:FAILURE:NOREBOOT=This installation package could not be opened. 
+1621:FAILURE:NOREBOOT=There was an error starting the Windows Installer service user interface. Contact your support personnel. 
+1623:FAILURE:NOREBOOT=This language of this installation package is not supported by your system. 
+1624:FAILURE:NOREBOOT=There was an error applying transforms. Verify that the specified transform paths are valid. 
+1631:FAILURE:NOREBOOT=The Windows Installer service failed to start. Contact your support personnel. 
+1632:FAILURE:NOREBOOT=The Temp folder is either full or inaccessible. Verify that the Temp folder exists and that you can write to it. 
+1634:CANCEL:NOREBOOT=Component is not used on this machine. 
+1639:FAILURE:NOREBOOT=Invalid command line argument.
+-522190794:SUCCESS:NOREBOOT=The action completed successfully.      
+-522190759:SUCCESS:NOREBOOT=The action completed successfully.      
+-522190592:SUCCESS:NOREBOOT=The action completed successfully.      
+-522189566:SUCCESS:NOREBOOT=The action completed successfully.      
+-5012:SUCCESS:NOREBOOT=The action completed successfully.  
+-5006:SUCCESS:NOREBOOT=The action completed successfully.  
+-5001:SUCCESS:NOREBOOT=The action completed successfully.  
+-3:SUCCESS:NOREBOOT=The action completed successfully.         
+-2:SUCCESS:NOREBOOT=The action completed successfully.         
+1:SUCCESS:NOREBOOT=The action completed successfully.           
+2:SUCCESS:NOREBOOT=The action completed successfully.           
+3:SUCCESS:NOREBOOT=The action completed successfully.           
+5:SUCCESS:NOREBOOT=The action completed successfully.           
+7:SUCCESS:NOREBOOT=The action completed successfully.           
+10:SUCCESS:NOREBOOT=The action completed successfully.        
+13:SUCCESS:NOREBOOT=The action completed successfully.        
+99:SUCCESS:NOREBOOT=The action completed successfully.        
+255:SUCCESS:NOREBOOT=The action completed successfully.      
+259:SUCCESS:NOREBOOT=The action completed successfully.      
+1153:SUCCESS:NOREBOOT=The action completed successfully.    
+1158:SUCCESS:NOREBOOT=The action completed successfully.    
+1601:SUCCESS:NOREBOOT=The action completed successfully.    
+1602:SUCCESS:NOREBOOT=The action completed successfully.    
+1603:SUCCESS:NOREBOOT=The action completed successfully.    
+1618:SUCCESS:NOREBOOT=The action completed successfully.    
+1622:SUCCESS:NOREBOOT=The action completed successfully.    
+1633:SUCCESS:NOREBOOT=The action completed successfully.    
+1636:SUCCESS:NOREBOOT=The action completed successfully.    
+1638:SUCCESS:NOREBOOT=The action completed successfully.    
+3010:SUCCESS:NOREBOOT=The action completed successfully.    
+1073807364:SUCCESS:NOREBOOT=The action completed successfully.     
+1073807464:SUCCESS:NOREBOOT=The action completed successfully.
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+Private_ReleaseType=Recommended
+Private_ProductType = Notebooks
+
+MS_Store_App=0
+DriverType=
+
+[Private_SoftpaqInstall]
+
+1. Download the file by clicking the Download or Obtain Software button and saving the file to a folder on your hard drive (make a note of the folder where the downloaded file is saved).
+
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+[CVAToolDocumentStamp]
+Generated by Release CVA Tool Version 1.0 using Syntax Version 2.0 A1 on 6/11/2019
+Copyright (c) 2019 HP Development Company, L.P.
+

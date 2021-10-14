@@ -1,0 +1,81 @@
+﻿TITLE:  Intel High-Definition (HD) Graphics Driver (Windows 10 v1903)
+VERSION:  25.20.100.6577
+DESCRIPTION:  
+This package provides the driver that enables the Intel High-Definition (HD) Graphics in supported notebook models that are running a supported operating system. If high-definition multimedia interface (HDMI) video output is supported, this package also installs the HDMI Audio Driver.
+
+PURPOSE:  Recommended
+SoftPaq NUMBER:  SP96803
+SUPERSEDES:None,None
+EFFECTIVE DATE:  5/31/2019
+CATEGORY:  Driver - Graphics
+SSM SUPPORTED:  Yes
+
+PRODUCT TYPE(S):   
+Notebooks
+
+HARDWARE PRODUCT MODEL(S):  
+HP 14 Laptop
+HP 17g Laptop
+HP 240 G7 Notebook PC
+HP 246 G7 Notebook PC
+
+OPERATING SYSTEM(S):
+Microsoft Windows 10 version 1903 (64-bit)
+
+LANGUAGE(S):
+English (US)
+French
+German
+Spanish
+Italian
+Swedish
+Portuguese
+Dutch
+Danish
+Norwegian
+Finnish
+Polish
+Japanese
+Thai
+Korean
+Chinese (Prc. Simplified)
+Czech
+Greek
+Taiwan Chinese (Traditional)
+Hungarian
+Russian
+Turkish
+Slovenian
+Arabic
+Hebrew
+Slovakian
+Hong Kong
+Bulgarian
+Romanian
+Croatian
+Estonian
+Latvian
+Lithuanian
+Serbian
+Kazakh
+Brazilian Portuguese
+French Canadian
+English (UK)
+Bahasa (Indonesia)
+Latin America
+
+DEVICES SUPPORTED:  
+Intel HD Graphics 610
+Intel HD Graphics 620
+Intel UHD Graphics 600
+Intel UHD Graphics 605
+Intel UHD Graphics 610
+Intel UHD Graphics 620
+
+HOW TO USE:  
+1. Download the file by clicking the Download or Obtain Software button and saving the file to a folder on your hard drive (make a note of the folder where the downloaded file is saved).
+
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+Copyright (c) 2019 HP Development Company, L.P.
+

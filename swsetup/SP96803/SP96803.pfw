@@ -1,0 +1,1667 @@
+[PackageForTheWeb]
+Version=2.0
+
+[Options]
+Title=IntelHigh-Definition(HD)GraphicsDriver(Windows10v1903)
+Company=HP
+CompanyEMail=
+BasePath=C:\Users\iec000435\Desktop\SP96803
+ImportPath=
+UseRTF=2
+SaveFiles=0
+SubFolders=1
+ApplicationName=Intel High-Definition (HD) Graphics Driver (Windows 10 v1903)
+Description=
+Comments=
+Notice=
+Version=25.20.100.6577
+OutputSpec=C:\Users\iec000435\Desktop\SP96803\SP96803.exe
+GUIDs=0
+Type=2
+Compress=1
+Sign=0
+Transfer=0
+Files=262
+
+[Engine]
+Setup=setup.exe
+
+[Runtime]
+Welcome=C:\Users\iec000435\Desktop\SP96803\SP96803.txt
+License=C:\Users\iec000435\Desktop\SP96803\lic-us.txt
+Prompt=
+Password=
+DefaultPath=C:\SWSetup\SP96803
+Language=English
+WindowStyle=0
+Options=33
+Execute=install.exe
+CmdLine=
+AllowChangeTarget=1
+AllowDelete=0
+LaunchEXE=1
+
+[Extension]
+Server=
+Calls=0
+
+[Code Signing]
+CompanyURL=
+SpecFile=
+KeyFile=
+Method=0
+
+; ~~~~~~~~~~ File Section ~~~~~~~~~~~
+[SubFolders]
+Count=39
+Folder1=drivers
+Folder2=drivers\DisplayAudio\10.26
+Folder3=drivers\DisplayAudio\11.1
+Folder4=drivers\Lang\ar-SA
+Folder5=drivers\Lang\bg-BG
+Folder6=drivers\Lang\cs-CZ
+Folder7=drivers\Lang\da-DK
+Folder8=drivers\Lang\de-DE
+Folder9=drivers\Lang\el-GR
+Folder10=drivers\Lang\en-US
+Folder11=drivers\Lang\es-ES
+Folder12=drivers\Lang\fi-FI
+Folder13=drivers\Lang\fr-FR
+Folder14=drivers\Lang\he-IL
+Folder15=drivers\Lang\hr-HR
+Folder16=drivers\Lang\hu-HU
+Folder17=drivers\Lang\it-IT
+Folder18=drivers\Lang\ja-JP
+Folder19=drivers\Lang\ko-KR
+Folder20=drivers\Lang\nb-NO
+Folder21=drivers\Lang\nl-NL
+Folder22=drivers\Lang\pl-PL
+Folder23=drivers\Lang\pt-BR
+Folder24=drivers\Lang\pt-PT
+Folder25=drivers\Lang\ro-RO
+Folder26=drivers\Lang\ru-RU
+Folder27=drivers\Lang\sk-SK
+Folder28=drivers\Lang\sl-SI
+Folder29=drivers\Lang\sv-SE
+Folder30=drivers\Lang\th-TH
+Folder31=drivers\Lang\tr-TR
+Folder32=drivers\Lang\zh-CN
+Folder33=drivers\Lang\zh-TW
+Folder34=drivers\ocl\bin
+Folder35=drivers\ocl\bin\x64
+Folder36=drivers\ocl\bin\x64\tbb
+Folder37=drivers\ocl\bin\x86
+Folder38=drivers\ocl\bin\x86\tbb
+Folder39=drivers\ocl
+
+[File 1]
+Name=2f952b6e85d448e9aee8ed11b2be91f9.appx
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 2]
+Name=2f952b6e85d448e9aee8ed11b2be91f9_License1.xml
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 3]
+Name=appxinst.cmd
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 4]
+Name=AUMIDs.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 5]
+Name=ColorImageEnhancement.wmv
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 6]
+Name=common_clang32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 7]
+Name=common_clang64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 8]
+Name=cpa_32.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 9]
+Name=cpa_64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 10]
+Name=cp_resources.bin
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 11]
+Name=cui_dch.inf
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 12]
+Name=c_32.cpa
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 13]
+Name=c_64.cpa
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 14]
+Name=dev_32.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 15]
+Name=dev_64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 16]
+Name=IntcDAud.cat
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\DisplayAudio\10.26\
+Flags=1
+Disk=0
+
+[File 17]
+Name=IntcDAud.inf
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\DisplayAudio\10.26\
+Flags=1
+Disk=0
+
+[File 18]
+Name=IntcDAud.sys
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\DisplayAudio\10.26\
+Flags=1
+Disk=0
+
+[File 19]
+Name=IntcDAud.cat
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\DisplayAudio\11.1\
+Flags=1
+Disk=0
+
+[File 20]
+Name=IntcDAud.inf
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\DisplayAudio\11.1\
+Flags=1
+Disk=0
+
+[File 21]
+Name=IntcDAud.sys
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\DisplayAudio\11.1\
+Flags=1
+Disk=0
+
+[File 22]
+Name=extinf.cat
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 23]
+Name=FilmModeDetection.wmv
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 24]
+Name=GfxDownloadWrapper.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 25]
+Name=h265e_32.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 26]
+Name=h265e_64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 27]
+Name=HdBusExt.cat
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 28]
+Name=HdBusExt.inf
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 29]
+Name=he_32.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 30]
+Name=he_64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 31]
+Name=ig9icd32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 32]
+Name=ig9icd64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 33]
+Name=iga32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 34]
+Name=iga64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 35]
+Name=igc32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 36]
+Name=igc64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 37]
+Name=igd10iumd32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 38]
+Name=igd10iumd64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 39]
+Name=igd11dxva32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 40]
+Name=igd11dxva64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 41]
+Name=igd12dxva32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 42]
+Name=igd12dxva64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 43]
+Name=igd12umd32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 44]
+Name=igd12umd64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 45]
+Name=igd9dxva32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 46]
+Name=igd9dxva64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 47]
+Name=igdail32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 48]
+Name=igdail64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 49]
+Name=igdde32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 50]
+Name=igdde64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 51]
+Name=igdfcl32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 52]
+Name=igdfcl64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 53]
+Name=igdgmm32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 54]
+Name=igdgmm64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 55]
+Name=igdinfo32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 56]
+Name=igdinfo64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 57]
+Name=igdkmd64.sys
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 58]
+Name=igdkmdn64.sys
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 59]
+Name=igdlh.cat
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 60]
+Name=igdmd32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 61]
+Name=igdmd64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 62]
+Name=igdrcl32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 63]
+Name=igdrcl64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 64]
+Name=igdumdim32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 65]
+Name=igdumdim64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 66]
+Name=igfx11cmrt32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 67]
+Name=igfx11cmrt64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 68]
+Name=igfxcmrt32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 69]
+Name=igfxcmrt64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 70]
+Name=igfxCUIService.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 71]
+Name=igfxCUIServiceN.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 72]
+Name=igfxCUIServicePS.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 73]
+Name=igfxCUIServicePSN.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 74]
+Name=igfxDH.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 75]
+Name=igfxDHN.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 76]
+Name=igfxDI.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 77]
+Name=igfxDIN.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 78]
+Name=igfxEM.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 79]
+Name=igfxEMN.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 80]
+Name=igfxexps.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 81]
+Name=igfxexps32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131101
+Disk=0
+
+[File 82]
+Name=igfxext.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 83]
+Name=igfxextN.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 84]
+Name=igfxLHM.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 85]
+Name=igfxSDK.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 86]
+Name=igfxSDKLib.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 87]
+Name=iglhxa64.cpa
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 88]
+Name=iglhxa64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 89]
+Name=iglhxc64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 90]
+Name=iglhxc64_dev.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 91]
+Name=iglhxg64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 92]
+Name=iglhxg64_dev.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 93]
+Name=iglhxo64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 94]
+Name=iglhxo64_dev.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 95]
+Name=iglhxs64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 96]
+Name=iglhxsn64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 97]
+Name=igvk32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 98]
+Name=igvk32.json
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 99]
+Name=igvk64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 100]
+Name=igvk64.json
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 101]
+Name=iigd_dch.inf
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 102]
+Name=iigd_ext.inf
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 103]
+Name=ImageStabilization.wmv
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 104]
+Name=IntelCpHDCPSvc.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 105]
+Name=IntelCpHeciSvc.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 106]
+Name=IntelGpuCompiler32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 107]
+Name=IntelGpuCompiler64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 108]
+Name=IntelOpenCL32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 109]
+Name=IntelOpenCL64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 110]
+Name=intel_gfx_api-x64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 111]
+Name=intel_gfx_api-x86.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 112]
+Name=Intel_OpenCL_ICD32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 113]
+Name=Intel_OpenCL_ICD64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 114]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ar-SA\
+Flags=1
+Disk=0
+
+[File 115]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ar-SA\
+Flags=1
+Disk=0
+
+[File 116]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\bg-BG\
+Flags=1
+Disk=0
+
+[File 117]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\cs-CZ\
+Flags=1
+Disk=0
+
+[File 118]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\cs-CZ\
+Flags=1
+Disk=0
+
+[File 119]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\da-DK\
+Flags=1
+Disk=0
+
+[File 120]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\da-DK\
+Flags=1
+Disk=0
+
+[File 121]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\de-DE\
+Flags=1
+Disk=0
+
+[File 122]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\de-DE\
+Flags=1
+Disk=0
+
+[File 123]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\el-GR\
+Flags=1
+Disk=0
+
+[File 124]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\el-GR\
+Flags=1
+Disk=0
+
+[File 125]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\en-US\
+Flags=1
+Disk=0
+
+[File 126]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\en-US\
+Flags=1
+Disk=0
+
+[File 127]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\es-ES\
+Flags=1
+Disk=0
+
+[File 128]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\es-ES\
+Flags=1
+Disk=0
+
+[File 129]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\fi-FI\
+Flags=1
+Disk=0
+
+[File 130]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\fi-FI\
+Flags=1
+Disk=0
+
+[File 131]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\fr-FR\
+Flags=1
+Disk=0
+
+[File 132]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\fr-FR\
+Flags=1
+Disk=0
+
+[File 133]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\he-IL\
+Flags=1
+Disk=0
+
+[File 134]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\he-IL\
+Flags=1
+Disk=0
+
+[File 135]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\hr-HR\
+Flags=1
+Disk=0
+
+[File 136]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\hr-HR\
+Flags=1
+Disk=0
+
+[File 137]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\hu-HU\
+Flags=1
+Disk=0
+
+[File 138]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\hu-HU\
+Flags=1
+Disk=0
+
+[File 139]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\it-IT\
+Flags=1
+Disk=0
+
+[File 140]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\it-IT\
+Flags=1
+Disk=0
+
+[File 141]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ja-JP\
+Flags=1
+Disk=0
+
+[File 142]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ja-JP\
+Flags=1
+Disk=0
+
+[File 143]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ko-KR\
+Flags=1
+Disk=0
+
+[File 144]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ko-KR\
+Flags=1
+Disk=0
+
+[File 145]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\nb-NO\
+Flags=1
+Disk=0
+
+[File 146]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\nb-NO\
+Flags=1
+Disk=0
+
+[File 147]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\nl-NL\
+Flags=1
+Disk=0
+
+[File 148]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\nl-NL\
+Flags=1
+Disk=0
+
+[File 149]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\pl-PL\
+Flags=1
+Disk=0
+
+[File 150]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\pl-PL\
+Flags=1
+Disk=0
+
+[File 151]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\pt-BR\
+Flags=1
+Disk=0
+
+[File 152]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\pt-BR\
+Flags=1
+Disk=0
+
+[File 153]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\pt-PT\
+Flags=1
+Disk=0
+
+[File 154]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\pt-PT\
+Flags=1
+Disk=0
+
+[File 155]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ro-RO\
+Flags=1
+Disk=0
+
+[File 156]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ro-RO\
+Flags=1
+Disk=0
+
+[File 157]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ru-RU\
+Flags=1
+Disk=0
+
+[File 158]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\ru-RU\
+Flags=1
+Disk=0
+
+[File 159]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\sk-SK\
+Flags=1
+Disk=0
+
+[File 160]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\sk-SK\
+Flags=1
+Disk=0
+
+[File 161]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\sl-SI\
+Flags=1
+Disk=0
+
+[File 162]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\sl-SI\
+Flags=1
+Disk=0
+
+[File 163]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\sv-SE\
+Flags=1
+Disk=0
+
+[File 164]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\sv-SE\
+Flags=1
+Disk=0
+
+[File 165]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\th-TH\
+Flags=1
+Disk=0
+
+[File 166]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\th-TH\
+Flags=1
+Disk=0
+
+[File 167]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\tr-TR\
+Flags=1
+Disk=0
+
+[File 168]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\tr-TR\
+Flags=1
+Disk=0
+
+[File 169]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\zh-CN\
+Flags=1
+Disk=0
+
+[File 170]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\zh-CN\
+Flags=1
+Disk=0
+
+[File 171]
+Name=igxpin.exe.mui
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\zh-TW\
+Flags=1
+Disk=0
+
+[File 172]
+Name=license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\Lang\zh-TW\
+Flags=1
+Disk=0
+
+[File 173]
+Name=libEGL.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 174]
+Name=libGLESv1_CM.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 175]
+Name=libGLESv2.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 176]
+Name=libmfxhw32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 177]
+Name=libmfxhw64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 178]
+Name=media_cp.man
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 179]
+Name=mfxplugin32_hw.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 180]
+Name=mfxplugin64_hw.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 181]
+Name=mfx_mft_encrypt_32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131101
+Disk=0
+
+[File 182]
+Name=mfx_mft_encrypt_64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 183]
+Name=mfx_mft_h264ve_32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131101
+Disk=0
+
+[File 184]
+Name=mfx_mft_h264ve_64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 185]
+Name=mfx_mft_h265ve_32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131101
+Disk=0
+
+[File 186]
+Name=mfx_mft_h265ve_64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 187]
+Name=mfx_mft_mjpgvd_32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131101
+Disk=0
+
+[File 188]
+Name=mfx_mft_mjpgvd_64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 189]
+Name=mfx_mft_vp9ve_32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131101
+Disk=0
+
+[File 190]
+Name=mfx_mft_vp9ve_64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 191]
+Name=mj_32.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 192]
+Name=mj_64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 193]
+Name=MPAP_2f952b6e85d448e9aee8ed11b2be91f9_001.provxml
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 194]
+Name=msdk.inf
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 195]
+Name=clbltfnshared.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\
+Flags=1
+Disk=0
+
+[File 196]
+Name=clang_compiler64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 197]
+Name=clbltfne9.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 198]
+Name=clbltfne9_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 199]
+Name=clbltfne9_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 200]
+Name=clbltfnh8.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 201]
+Name=clbltfnh8_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 202]
+Name=clbltfnh8_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 203]
+Name=clbltfnl9.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 204]
+Name=clbltfnl9_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 205]
+Name=clbltfnl9_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 206]
+Name=clbltfnz0.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 207]
+Name=clbltfnz0_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 208]
+Name=clbltfnz0_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=1
+Disk=0
+
+[File 209]
+Name=cpu_device64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 210]
+Name=intelocl64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 211]
+Name=IntelOpenCL64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 212]
+Name=OclCpuBackend64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 213]
+Name=task_executor64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 214]
+Name=ocltbb64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\tbb\
+Flags=131089
+Disk=0
+
+[File 215]
+Name=ocltbbmalloc64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\tbb\
+Flags=131089
+Disk=0
+
+[File 216]
+Name=__ocl_svml_e9.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 217]
+Name=__ocl_svml_h8.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 218]
+Name=__ocl_svml_l9.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 219]
+Name=__ocl_svml_z0.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x64\
+Flags=131089
+Disk=0
+
+[File 220]
+Name=clang_compiler32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 221]
+Name=clbltfng9.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 222]
+Name=clbltfng9_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 223]
+Name=clbltfng9_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 224]
+Name=clbltfnn8.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 225]
+Name=clbltfnn8_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 226]
+Name=clbltfnn8_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 227]
+Name=clbltfns9.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 228]
+Name=clbltfns9_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 229]
+Name=clbltfns9_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 230]
+Name=clbltfnx0.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 231]
+Name=clbltfnx0_img_cbk.o
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 232]
+Name=clbltfnx0_img_cbk.rtl
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=1
+Disk=0
+
+[File 233]
+Name=cpu_device32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 234]
+Name=intelocl32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 235]
+Name=IntelOpenCL32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 236]
+Name=OclCpuBackend32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 237]
+Name=task_executor32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 238]
+Name=ocltbb32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\tbb\
+Flags=131089
+Disk=0
+
+[File 239]
+Name=ocltbbmalloc32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\tbb\
+Flags=131089
+Disk=0
+
+[File 240]
+Name=__ocl_svml_g9.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 241]
+Name=__ocl_svml_n8.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 242]
+Name=__ocl_svml_s9.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 243]
+Name=__ocl_svml_x0.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\bin\x86\
+Flags=131089
+Disk=0
+
+[File 244]
+Name=llvm_release_license.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\
+Flags=1
+Disk=0
+
+[File 245]
+Name=readme.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\
+Flags=1
+Disk=0
+
+[File 246]
+Name=version.ini
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\ocl\
+Flags=1
+Disk=0
+
+[File 247]
+Name=OSSCOPYRIGHT
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 248]
+Name=UniversalAdapter32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 249]
+Name=UniversalAdapter64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 250]
+Name=vp9e_32.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 251]
+Name=vp9e_64.vp
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 252]
+Name=vulkan-1-32.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 253]
+Name=vulkan-1-64.dll
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=131089
+Disk=0
+
+[File 254]
+Name=vulkaninfo-32.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 255]
+Name=vulkaninfo-64.exe
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=65537
+Disk=0
+
+[File 256]
+Name=VulkanRT-EULA.txt
+Path=C:\Users\iec000435\Desktop\SP96803\drivers\
+Flags=1
+Disk=0
+
+[File 257]
+Name=Install.bat
+Path=C:\Users\iec000435\Desktop\SP96803\
+Flags=65537
+Disk=0
+
+[File 258]
+Name=install.exe
+Path=C:\Users\iec000435\Desktop\SP96803\
+Flags=65537
+Disk=0
+
+[File 259]
+Name=IntelHigh-Definition(HD)GraphicsDriver(Windows10v1903).log
+Path=C:\Users\iec000435\Desktop\SP96803\
+Flags=1
+Disk=0
+
+[File 260]
+Name=lic-us.txt
+Path=C:\Users\iec000435\Desktop\SP96803\
+Flags=1
+Disk=0
+
+[File 261]
+Name=SP96803.cva
+Path=C:\Users\iec000435\Desktop\SP96803\
+Flags=1
+Disk=0
+
+[File 262]
+Name=SP96803.txt
+Path=C:\Users\iec000435\Desktop\SP96803\
+Flags=1
+Disk=0

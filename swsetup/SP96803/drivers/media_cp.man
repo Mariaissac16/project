@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrumentationManifest xsi:schemaLocation="http://schemas.microsoft.com/win/2004/08/events eventman.xsd" xmlns="http://schemas.microsoft.com/win/2004/08/events" xmlns:win="http://manifests.microsoft.com/win/2004/08/windows/events" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:trace="http://schemas.microsoft.com/win/2004/08/events/trace">
+	<instrumentation>
+		<events>
+			<provider name="IntelCPEventProvider" guid="{E646ACD6-2C0A-44F7-88EF-208B5E803788}" symbol="IntelCPEventProviderSym" resourceFileName="%Systemroot%\..\Program Files\Intel\Media Resource\igd11dxva32.dll" messageFileName="%Systemroot%\..\Program Files\Intel\Media Resource\igd11dxva32.dll">
+				<events>
+					<event symbol="eCryptoSessionCreate" value="1" version="0" channel="Application" level="win:Informational" opcode="win:Info" template="tCryptoSessionCreate_D3D11" keywords="win:Telemetry " message="$(string.IntelCPDriverProvider.event.1.message)">
+					</event>
+					<event symbol="eCryptoSessionDestory" value="2" version="0" channel="Application" level="win:Informational" opcode="win:Info" template="tCryptoSessionDestory_D3D11" keywords="win:Telemetry " message="$(string.IntelCPDriverProvider.event.2.message)">
+					</event>
+					<event symbol="eCryptoSessionCreate_D3D9" value="3" version="0" channel="Application" level="win:Informational" opcode="win:Info" template="tCryptoSessionCreate_D3D9" keywords="win:Telemetry " message="$(string.IntelCPEventProvider.event.3.message)">
+					</event>
+					<event symbol="eCryptoSessionDestory_D3D9" value="4" version="0" channel="Application" level="win:Informational" opcode="win:Info" template="tCryptoSessionDestory_D3D9" keywords="win:Telemetry " message="$(string.IntelCPEventProvider.event.4.message)">
+					</event>
+					<event symbol="eKeyExchange_D3D9" value="5" version="0" channel="Application" level="win:Informational" opcode="win:Info" template="tKeyExchange_D3D9" keywords="win:Telemetry " message="$(string.IntelCPEventProvider.event.5.message)">
+					</event>
+				</events>
+				<levels>
+				</levels>
+				<opcodes>
+				</opcodes>
+				<channels>
+					<importChannel name="Application" chid="Application">
+					</importChannel>
+					<importChannel name="System" chid="System">
+					</importChannel>
+				</channels>
+				<keywords>
+				</keywords>
+				<templates>
+					<template tid="tCryptoSessionCreate_D3D11">
+						<data name="title" inType="win:AnsiString" outType="xs:string">
+						</data>
+						<data name="CryptoTypeGUID" inType="win:GUID" outType="xs:GUID">
+						</data>
+						<data name="KeyExchangeGUID" inType="win:GUID" outType="xs:GUID">
+						</data>
+						<data name="hr" inType="win:UInt32" outType="xs:unsignedInt">
+						</data>
+					</template>
+					<template tid="tCryptoSessionDestory_D3D11">
+						<data name="title" inType="win:AnsiString" outType="xs:string">
+						</data>
+						<data name="hr" inType="win:UInt32" outType="xs:unsignedInt">
+						</data>
+					</template>
+					<template tid="tCryptoSessionCreate_D3D9">
+						<data name="title" inType="win:AnsiString" outType="xs:string">
+						</data>
+						<data name="CryptoTypeGUID" inType="win:GUID" outType="xs:GUID">
+						</data>
+						<data name="DecoderProfileGUID" inType="win:GUID" outType="xs:GUID">
+						</data>
+						<data name="hr" inType="win:UInt32" outType="xs:unsignedInt">
+						</data>
+					</template>
+					<template tid="tCryptoSessionDestory_D3D9">
+						<data name="title" inType="win:AnsiString" outType="xs:string">
+						</data>
+						<data name="hr" inType="win:UInt32" outType="xs:unsignedInt">
+						</data>
+					</template>
+					<template tid="tKeyExchange_D3D9">
+						<data name="title" inType="win:AnsiString" outType="xs:string">
+						</data>
+						<data name="KeyExchangeGUID" inType="win:GUID" outType="xs:GUID">
+						</data>
+						<data name="hr" inType="win:UInt32" outType="xs:unsignedInt">
+						</data>
+					</template>
+				</templates>
+			</provider>
+		</events>
+	</instrumentation>
+	<localization>
+		<resources culture="en-US">
+			<stringTable>
+				<string id="opcode.Info" value="Info">
+				</string>
+				<string id="level.LogAlways" value="Log Always">
+				</string>
+				<string id="level.Informational" value="Information">
+				</string>
+				<string id="keyword.Telemetry" value="Telemetry">
+				</string>
+				<string id="channel.System" value="System">
+				</string>
+				<string id="channel.Application" value="Application">
+				</string>
+				<string id="IntelCPEventProvider.event.5.message" value="dump key exchange parameter">
+				</string>
+				<string id="IntelCPEventProvider.event.4.message" value="destory crypto session in DX9 driver">
+				</string>
+				<string id="IntelCPEventProvider.event.3.message" value="create crypto session in DX9 driver">
+				</string>
+				<string id="IntelCPDriverProvider.event.2.message" value="dump event of destorying crypto session">
+				</string>
+				<string id="IntelCPDriverProvider.event.1.message" value="dump input parameter of crypto session create and its result">
+				</string>
+				<string id="Intel-CP-Driver-ETW.task.tQueryCapsForDCA.message" value="query cp caps for DCA for testing">
+				</string>
+				<string id="Intel-CP-Driver-ETW.event.0.message" value="QueryCPCaps">
+				</string>
+			</stringTable>
+		</resources>
+	</localization>
+</instrumentationManifest>

@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created With CreateMup.exe v3.0.3.0, built on Aug. 30 2015, 1:53PM MST -0700 UTC.-->
+<MUPDefinition xmlns="http://schemas.dell.com/openmanage/cm/2/0/mupdefinition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dell.com/openmanage/cm/2/0/mupdefinition.xsd mupdefinition.xsd">
+  <packageinformation>
+    <installertype>installshield installscript</installertype>
+    <packagegrouping>single_package</packagegrouping>
+    <packagingtype>zip</packagingtype>
+    <releasetype>DRVR</releasetype>
+    <mupspecificationversion>2.4.3</mupspecificationversion>
+    <version>20.19.15.4835</version>
+    <name>Graphics </name>
+    <supportedoperatingsystems>
+      <osidentifier name="Windows10" architecture="x64" />
+      <osidentifier name="Windows8" architecture="x64" />
+      <osidentifier name="W2K12" architecture="x64" />
+      <osidentifier name="Windows8.1" architecture="x64" />
+      <osidentifier name="W2K12R2" architecture="x64" />
+      <osidentifier name="Vista" architecture="x64" />
+      <osidentifier name="W2K8" architecture="x64" />
+      <osidentifier name="Windows7" architecture="x64" />
+      <osidentifier name="W2K8R2" architecture="x64" />
+    </supportedoperatingsystems>
+    <content>
+      <Device componentID="103292">
+        <PCIInfo vendorID="8086" deviceID="22B1" />
+        <PCIInfo vendorID="8086" deviceID="22B0" />
+        <Image type="DRVR" version="20.19.15.4835">
+          <file>production\Windows10-x64\ki126374.inf\20.19.15.4835\ki126374.inf</file>
+          <file>production\Windows10-x64\ki126374.inf\20.19.15.4835\ki126374.cat</file>
+          <file>production\Windows10-x64\ki126374.inf\20.19.15.4835\igdkmd64.sys</file>
+          <file>production\Windows10-x64\ki126374.inf\20.19.15.4835\igdkmd64lp.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="8.20.00.950">
+          <file>production\Windows8-x64\IntcDAud.inf\8.20.00.950\IntcDAud.inf</file>
+          <file>production\Windows8-x64\IntcDAud.inf\8.20.00.950\IntcDAud.cat</file>
+          <file>production\Windows8-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+          <file>production\Windows8-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="8.20.00.950">
+          <file>production\W2K12-x64\IntcDAud.inf\8.20.00.950\IntcDAud.inf</file>
+          <file>production\W2K12-x64\IntcDAud.inf\8.20.00.950\IntcDAud.cat</file>
+          <file>production\W2K12-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+          <file>production\W2K12-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="8.20.00.950">
+          <file>production\Windows8.1-x64\IntcDAud.inf\8.20.00.950\IntcDAud.inf</file>
+          <file>production\Windows8.1-x64\IntcDAud.inf\8.20.00.950\IntcDAud.cat</file>
+          <file>production\Windows8.1-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+          <file>production\Windows8.1-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="8.20.00.950">
+          <file>production\W2K12R2-x64\IntcDAud.inf\8.20.00.950\IntcDAud.inf</file>
+          <file>production\W2K12R2-x64\IntcDAud.inf\8.20.00.950\IntcDAud.cat</file>
+          <file>production\W2K12R2-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+          <file>production\W2K12R2-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="8.20.00.950">
+          <file>production\Windows10-x64\IntcDAud.inf\8.20.00.950\IntcDAud.inf</file>
+          <file>production\Windows10-x64\IntcDAud.inf\8.20.00.950\IntcDAud.cat</file>
+          <file>production\Windows10-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+          <file>production\Windows10-x64\IntcDAud.inf\8.20.00.950\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\Vista-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\Vista-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\Vista-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\Vista-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\W2K8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\W2K8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\W2K8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\W2K8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\Windows7-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\Windows7-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\Windows7-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\Windows7-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\W2K8R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\W2K8R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\W2K8R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\W2K8R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\Windows8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\Windows8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\Windows8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\Windows8-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\W2K12-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\W2K12-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\W2K12-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\W2K12-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\Windows8.1-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\Windows8.1-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\Windows8.1-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\Windows8.1-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\W2K12R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\W2K12R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\W2K12R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\W2K12R2-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103292">
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2807</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2808</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2883</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <PnPInfo>
+          <ACPIID>8086</ACPIID>
+          <PnPProductID>2809</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="6.16.00.3197">
+          <file>production\Windows10-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.inf</file>
+          <file>production\Windows10-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.cat</file>
+          <file>production\Windows10-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+          <file>production\Windows10-x64\IntcDAud.inf\6.16.00.3197\IntcDAud.sys</file>
+        </Image>
+      </Device>
+    </content>
+  </packageinformation>
+  <executable>
+    <executablename>igxpin.exe</executablename>
+  </executable>
+  <behaviors>
+    <behavior name="freshinstall">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">s</optionvalue>
+      </vendoroption>
+    </behavior>
+    <!--Driver Only Package, Installer Doesn't need to support
+    <behavior name="driveronly">
+      <vendoroption>
+         <optionvalue switch="/" requiresvalue="false"></optionvalue>
+      </vendoroption>
+    </behavior>
+      <behavior name="applicationonly">
+      <vendoroption>
+         <optionvalue switch="/" requiresvalue="false"></optionvalue>
+      </vendoroption>
+    </behavior>
+    -->
+    <behavior name="extractdrivers">
+      <vendoroption>
+        <container>
+          <containervalue switch="/" requiresvalue="false" valuedelimiter=" " enclose="&quot;">v</containervalue>
+          <optionvalue switch="" requiresvalue="true" valuedelimiter="=" enclose="\&quot;">ExtractDrivers</optionvalue>
+        </container>
+      </vendoroption>
+    </behavior>
+    <behavior name="attended" />
+    <behavior name="help">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">?</optionvalue>
+      </vendoroption>
+    </behavior>
+    <behavior name="unattended">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">s</optionvalue>
+      </vendoroption>
+      <!-- The DUP will Restart the system
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">b</optionvalue>
+      </vendoroption>
+      -->
+    </behavior>
+  </behaviors>
+  <parameters>
+    <parametermapping name="force">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">overwrite</optionvalue>
+      </vendoroption>
+    </parametermapping>
+    <parametermapping name="logfile">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="true" valuedelimiter=" " enclose="&quot;">report</optionvalue>
+      </vendoroption>
+    </parametermapping>
+  </parameters>
+  <returncodes>
+    <returncodemapping name="REBOOTING_SYSTEM">
+      <vendorreturncode>15</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="PASSWORD_REQUIRED">
+      <vendorreturncode>2</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="NO_DOWNGRADE">
+      <!--Always able to DownGrade, Installer Doesn't need to support-->
+      <vendorreturncode>9999</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="REBOOT_UPDATE_PENDING">
+      <!--Installer only Reboots Once, Installer Doesn't need to support-->
+      <vendorreturncode>9999</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="DEP_SOFT_ERROR">
+      <vendorreturncode>7</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="DEP_HARD_ERROR">
+      <vendorreturncode>5</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="SUCCESS">
+      <vendorreturncode>0</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="ERROR">
+      <vendorreturncode>10</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="REBOOT_REQUIRED">
+      <vendorreturncode>14</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="ERROR_INSTALL_PLATFORM_UNSUPPORTED">
+      <vendorreturncode>3</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="UNKNOWN_OPTION">
+      <vendorreturncode>1</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="ERROR">
+      <vendorreturncode>9</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="ERROR">
+      <vendorreturncode>6</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="ERROR">
+      <vendorreturncode>4</vendorreturncode>
+    </returncodemapping>
+  </returncodes>
+  <inventorymetadata>
+    <extractdriversidentifier>
+      <pnpids>
+        <pnpdevice componentID="103292">
+          <!--filename: \Graphics\ki126374.inf-->
+          <driverversion>20.19.15.4835</driverversion>
+          <pciinfo vendorID="8086" deviceID="22B1" />
+          <pciinfo vendorID="8086" deviceID="22B0" />
+        </pnpdevice>
+        <pnpdevice componentID="103292">
+          <!--filename: \DisplayAudio\8.20\IntcDAud.inf-->
+          <driverversion>8.20.00.950</driverversion>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2809</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2809</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2809</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2809</PnPProductID>
+          </pnpidstring>
+        </pnpdevice>
+        <pnpdevice componentID="103292">
+          <!--filename: \DisplayAudio\6.16\IntcDAud.inf-->
+          <driverversion>6.16.00.3197</driverversion>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2807</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2807</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2808</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2808</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2883</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2883</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2809</PnPProductID>
+          </pnpidstring>
+          <pnpidstring>
+            <ACPIID>8086</ACPIID>
+            <PnPProductID>2809</PnPProductID>
+          </pnpidstring>
+        </pnpdevice>
+      </pnpids>
+    </extractdriversidentifier>
+    <fullpackageidentifier>
+      <msis>
+        <msi componentID="103292">
+          <identifyingnumber>{4D36E968-E325-11CE-BFC1-08002BE10318}</identifyingnumber>
+          <version>20.19.15.4835</version>
+          <upgradecode>{4D36E968-E325-11CE-BFC1-08002BE10318}</upgradecode>
+        </msi>
+      </msis>
+    </fullpackageidentifier>
+  </inventorymetadata>
+</MUPDefinition>
